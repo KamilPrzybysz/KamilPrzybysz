@@ -1,0 +1,2 @@
+biblioteka jest potrzebna, bez niej glowny nie zadziala
+fragment z biblioteka to funkcja hej wypisujaca hello world
