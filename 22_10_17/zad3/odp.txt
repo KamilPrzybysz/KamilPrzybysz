@@ -1,0 +1,9 @@
+gcc -c "porgram.c"
+powstaje program.o
+
+scalenie zeby powstal wykonywalny a.out
+gcc -o a.out zad3.o
+
+
+zmiana nazwy przy kompilacji
+gcc zad3.c -o "docelowa nazwa"
